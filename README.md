@@ -1,16 +1,13 @@
-## Hi there 👋
+# Mason
 
-<!--
-**mason50x/mason50x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square\&logo=typescript)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square\&logo=vercel)
+![React](https://img.shields.io/badge/React-111111?style=flat-square\&logo=react)
+![Swift](https://img.shields.io/badge/Swift-111111?style=flat-square\&logo=swift)
+![Convex](https://img.shields.io/badge/Convex-111111?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square\&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=flat-square\&logo=tailwindcss)
 
-Here are some ideas to get you started:
+> Build things that feel inevitable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Landscape](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format\&fit=crop\&w=1600\&q=80)
